@@ -1,0 +1,13 @@
+python-telegram-bot==5.0
+numpy
+pandas
+datetime
+matplotlib
+seaborn
+six
+sqlalchemy
+psycopg2
+beautifulsoup4
+requests
+dateparser
+tweepy
